@@ -2,7 +2,7 @@
 
 Hi I am Panos (not Thanos) and I am a newbie. I started recently programming and I won't stop If I will not 
 TAKE OVER THE WORLD!!!
-(oops...)….I mean learn enough..
+(oops...)….I mean learn all as much as I can in this life..
 - 🔭 I’m currently working on whatever comes to my mind
 - 🌱 I’m currently learning Bootstrap and javascript
 - 👯 I’m looking to collaborate on ...anything
