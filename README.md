@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**PanosGri/PanosGri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![pic](https://user-images.githubusercontent.com/71344555/93356048-a2b64c80-f836-11ea-914f-9ce011b3d67f.jpg)
 
 Here are some ideas to get you started:
 
